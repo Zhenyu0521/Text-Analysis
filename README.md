@@ -4,11 +4,11 @@
 
 - [1. Introduction of Text Analysis](#1-introduction-of-text-analysis)
 - [2. SNP Feedback Analysis](#2-snp-feedback-analysis)
-  - [2.1 Course Recommendations for New Customers](#2.1-course-recommendations-for-new-customers)
-  - [2.2 Course Recommendations for Existing Customers](#2.2-course-recommendations-for-existing-customers)
-- [3. Yelp Customers' Reviews Analysis](#2-yelp-customers'-reviews-analysis)
-  - [3.1 Machine Learning](#3.1-machine-learning)
-  - [3.2 AWS and GCP ML Text Analysis](#3.2-aws-and-gcp-ml-text-analysis)
+  - [2.1 Course Recommendations for New Customers](#21-course-recommendations-for-new-customers)
+  - [2.2 Course Recommendations for Existing Customers](#22-course-recommendations-for-existing-customers)
+- [3. Yelp Customers' Reviews Analysis](#3-yelp-customers'-reviews-analysis)
+  - [3.1 Machine Learning](#31-machine-learning)
+  - [3.2 AWS and GCP ML Text Analysis](#32-aws-and-gcp-ml-text-analysis)
  
  ---
  
