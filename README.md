@@ -7,7 +7,7 @@
   - [2.1 Course Recommendations for New Customers](#21-course-recommendations-for-new-customers)
   - [2.2 Course Recommendations for Existing Customers](#22-course-recommendations-for-existing-customers)
 - [3. Yelp Customers' Reviews Analysis](#3-yelp-customers'-reviews-analysis)
-  - [3.1 Machine Learning](#31-machine-learning)
+  - [3.1 Machine Learning in Python](#31-machine-learning-in-python)
   - [3.2 AWS and GCP ML Text Analysis](#32-aws-and-gcp-ml-text-analysis)
  
  ---
@@ -35,3 +35,5 @@ Based on this analysis, our group is able to provide the following recommendatio
  
  
  ## 3. [Yelp Customers' Reviews Analysis](https://github.com/Zhenyu0521/Text-Analysis/tree/master/NLP%20for%20Yelp%20Reviews)
+
+### 3.1 Machine Learning in Python
